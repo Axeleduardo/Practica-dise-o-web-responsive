@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background:lime;
+    padding: 20px;
+}
+.content-cabecera{
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}
+.content-logo{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid yellow;
+    margin: auto;
+}
+.content-logo img{
+    width: 100%;
+    height: 100%;
+}
+.content-cabecera h1{
+    font-weight: 100;
+    color: white;
+    margin-top: 20px;
+}
+.content-cabecera p{
+    margin-top: 40px;
+    color: white;
+}
+.content-cabecera a{
+    color: red;
+}
+/*¨*/
+main{
+    background: white};
+}
+.content1{
+    width: 100%;
+    margin-top: 20px;
+}
+.img-content1{
+    width: 100%;
+    text-align: center;
+}
+.img-content1 img{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+}
+.text-content1{
+    width: 100%;
+}
+.text-content1 h1{
+margin-top: 40px;
+font-weight: 100;
+text-align: center;
+}
+.text-content1 hr{
+    width: 100px;
+    height: 4px;
+    margin: auto;
+    border-style: none;
+    background: -webkit-linear-gradient(left, red, blue, #82B2EE);
+    margin-top: 20px;
+}
+.text-content1 p{
+    margin-top: 40px;
+color:black;
+letter-spacing: 1px;
+}
+.booton-leer{
+    width: 200px;
+    padding: 16px;
+    border: 2px solid seagreen;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    cursor: pointer;
+}
+/**/
+.content2{
+    width: 100%;
+    text-align: center;
+}
+.content2 h1{
+    font-weight: 100;
+    margin-top: 20px;
+}
+.content2 hr{
+    width: 100px;
+    height: 4px;
+    margin: auto;
+    border-style: none;
+    background: -webkit-linear-gradient(left, red, blue, #82B2EE);
+    margin-top: 20px;
+}
+.content-details{
+    width: 100%;
+}
+.item-details{
+    width: 400px;
+    margin: auto;
+}
+.icon-details{
+    width: 200px;
+    height: 200px;
+    border: 1px solid blue;
+    border-radius: 50%;
+    display: flex;
+    margin: auto;
+    margin-top: 40px;
+}
+.icon-details span{
+    font-size: 80px;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 46px;
+    margin: auto;
+}
+.content-details h4{
+font-weight: 100;
+font-size: 18px;
+margin-top: 50px;
+}
+.content-details p{
+    font-size: 16px;
+    margin-top: 20px;
+    letter-spacing: 1px;
+}
